@@ -5,7 +5,7 @@ I have tried to predict 'sales' using the 'amount spent on advertisement using T
 
 Find the dataset <a href="https://raw.githubusercontent.com/VimalChamyal/Advertisement/main/advertising.csv"> here </a>
 
-## How I made it?
+## How I made it? 
 
 Step 1: Performed EDA to understand the data. This step helped me eliminate Radio and Newspaper columns as I wasn't able to see any relation of these columns with Sales. I used pandas for checking basic info, then using pairplot (seaborn) checked out pairwise relationships (w.r.t Sales) in the dataset.
 
