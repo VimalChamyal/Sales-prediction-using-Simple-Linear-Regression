@@ -13,4 +13,4 @@ Step 2: Performed test train split using sklearn.
 
 Step 3: Using the statsmodels python package built a SLR model that was at last used to predict 'Sales' using 'T.V' values (Amount spent on advertisement using T.V as the medium) that we got from the test dataset.
 
-Checkout the file <a href="https://github.com/VimalChamyal/Advertisement/blob/main/Predicting_sales_using_SLR.ipynb)https://github.com/VimalChamyal/Advertisement/blob/main/Predicting_sales_using_SLR.ipynb"> here </a>
+Checkout the code <a href="https://github.com/VimalChamyal/Advertisement/blob/main/Predicting_sales_using_SLR.ipynb)https://github.com/VimalChamyal/Advertisement/blob/main/Predicting_sales_using_SLR.ipynb"> here </a>
