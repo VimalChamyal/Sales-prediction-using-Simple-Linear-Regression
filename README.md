@@ -1,4 +1,4 @@
-# Advertisement
+# Sales prediction using Simple Linear Regression
 
 In this project have used Simple Linear Regression to model the data. 
 I have tried to predict 'sales' using the 'amount spent on advertisement using TV as the medium'.
